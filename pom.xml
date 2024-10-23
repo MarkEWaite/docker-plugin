@@ -168,7 +168,7 @@
     <dependency>
       <groupId>io.jenkins.plugins</groupId>
       <artifactId>apache-httpcomponents-client-5-api</artifactId>
-      <version>5.3.1-121.v83b_40b_a_8fb_13</version>
+      <version>5.4-122.v0d378b_4da_2a_8</version>
       <scope>test</scope>
     </dependency>
     <dependency>
